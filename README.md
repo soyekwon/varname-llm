@@ -1,4 +1,6 @@
-# 현대자동차 X LLM 기반 차량 도메인 변수명 자동 생성
+# 현대자동차 X LLM 기반 차량 도메인 변수명 자동 생성 과제
+
+<img width="1408" height="752" alt="Gemini_Generated_Image_83i5hs83i5hs83i5" src="https://github.com/user-attachments/assets/4803a7e3-d587-4f00-b837-e3483493ba49" />
 
 차량 Test Case로부터 **규칙을 준수하는 변수명(variable name)** 을 자동 생성하기 위한 **LLM 파이프라인**입니다.  
 사양서(도메인 문서) 기반 **DAPT → 테스트케이스 기반 SFT → RAG로 동적 예시 주입** 흐름으로 성능을 고도화합니다.
